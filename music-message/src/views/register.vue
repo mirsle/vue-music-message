@@ -91,7 +91,7 @@ export default {
                 });
                 setTimeout(() => {
                   this.$router.replace("/login");
-                }, 2000);
+                }, 1300);
               }
             })
             .catch(() => {
